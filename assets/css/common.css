@@ -1,0 +1,33 @@
+.container{
+	margin-top: 30px;
+}
+
+#title{
+	text-align: center;
+	font-weight: bold;
+}
+
+.property{
+	margin-top:30px;
+	text-align:center;
+}
+
+.property a{
+	text-decoration:none;
+}
+
+.property p{
+	margin-bottom:1px;
+}
+
+.property img{
+	width: 300px;
+	height: 300px;
+	margin-bottom: 10px;
+}
+
+.property button{
+	margin-top: 10px;
+	width: 150px;
+	text-align: center;
+}
